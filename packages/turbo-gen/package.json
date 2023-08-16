@@ -27,7 +27,7 @@
     "inquirer": "^8.2.4",
     "minimatch": "^9.0.0",
     "node-plop": "^0.26.3",
-    "semver": "^7.3.8",
+    "semver": "^7.5.2",
     "ts-node": "^10.9.1",
     "update-check": "^1.5.4",
     "validate-npm-package-name": "^5.0.0"
